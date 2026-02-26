@@ -80,4 +80,4 @@ Em caso de dúvidas ou sugestões, entre em contato:
 
 Email: devgabrielsilveira@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/gabriel-silveira-67979b18a/ <br>
-<b>Desenvolvido por Gabriel Silveira</b> 🚀
+<b>Desenvolvido por Boêmia.smk & Gabriel Silveira</b> 🚀

@@ -94,7 +94,7 @@ export default function Footer() {
                 <MapPin className="h-4 w-4 text-muted-foreground mt-0.5 flex-shrink-0" />
                 <div className="text-sm text-muted-foreground">
                   <div>R. Louro Freijo, 130</div>
-                  <div>Boa Vista - São Leopoldo/RP</div>
+                  <div>Boa Vista - São Leopoldo/RS</div>
                 </div>
               </div>
 
